@@ -1,0 +1,80 @@
+* {margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    border-collapse: collapse;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;}
+    
+.intro_bg{background-color: black;
+    width: 1900px;
+    height: 5500px;}
+
+.header{width: 1701px;
+    height: 150px;
+    margin: auto;
+    display: flex;}
+
+.logo{margin-top: 53px;
+    width: 248.67px;
+    height: 39.78px;
+    justify-content: center;}
+
+.nav{display: flex;
+    justify-content: flex-end;
+    width: 1453px;
+    line-height: 41px;
+    margin-top: 53px;}
+
+.nav > li{margin-left: 178px;
+        font-size: 29px;} 
+         
+a{border-radius: 50px;
+    padding: 12px 41px;}
+
+.bt:hover {background-color: #FF4F00;
+        border-radius: 50px;
+        padding: 12px 41px;
+        transition: all 0.2s;}
+a:visited{color: white;}
+a:active{}
+
+.main1{position: absolute;
+    top: 330px;
+    left: 159px;}
+
+.text1{font-size: 60px;
+    position: absolute;
+    top: 620px;
+    left: 159px;}
+
+.main2{position: absolute;
+    top: 1341px;
+    left: 141px;}
+
+.text2{font-size: 60px;
+    position: absolute;
+    top: 2343px;
+    left: 62px;}
+
+.text3{font-size: 50px;
+    position: absolute;
+    top: 2511px;
+    left: 62px;}
+
+.main3{position: absolute;
+    top: 3504px;
+    left: 141px;}
+
+.text4{font-size: 60px;
+    position: absolute;
+    top: 4616px;
+    left: 62px;
+    letter-spacing: -5px;}
+
+.text5{font-size: 50px;
+    position: absolute;
+    top: 4783px;
+    left: 62px;}

@@ -1,0 +1,114 @@
+* {margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    border-collapse: collapse;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;}
+    
+.intro_bg{background-color: black;
+    width: 1900px;
+    height: 6041px;}
+
+.header{width: 1701px;
+    height: 150px;
+    margin: auto;
+    display: flex;}
+
+.logo{margin-top: 53px;
+    width: 248.67px;
+    height: 39.78px;
+    justify-content: center;}
+
+.nav{display: flex;
+    justify-content: flex-end;
+    width: 1453px;
+    line-height: 41px;
+    margin-top: 53px;}
+
+.nav > li{margin-left: 178px;
+        font-size: 29px;} 
+         
+a{border-radius: 50px;
+    padding: 12px 41px;}
+
+.bt:hover {background-color: #FF4F00;
+        border-radius: 50px;
+        padding: 12px 41px;
+        transition: all 0.2s;}
+a:visited{color: white;}
+a:active{}
+
+.main1{position: absolute;
+    top: 330px;
+    left: 145px;}
+
+.text1{font-size: 60px;
+    position: absolute;
+    top: 620px;
+    left: 159px;}
+
+.main2{position: absolute;
+    top: 1163px;
+    left: 54px;}
+
+.text2{position: absolute;
+    top: 1708px;
+    left: 54px;
+    font-size: 60px;}
+
+.main3{position: absolute;
+    top: 1860px;
+    left: 54px;}
+
+.text3{position: absolute;
+    top: 2405px;
+    left: 54px;
+    font-size: 60px;}
+
+.main4{position: absolute;
+    top: 2557px;
+    left: 54px;}
+
+.text4{position: absolute;
+    top: 3102px;
+    left: 54px;
+    font-size: 60px;}
+
+.main5{position: absolute;
+    top: 3254px;
+    left: 54px;}
+
+.text5{position: absolute;
+    top: 3799px;
+    left: 54px;
+    font-size: 60px;}
+
+.main6{position: absolute;
+    top: 3951px;
+    left: 54px;}
+
+.text6{position: absolute;
+    top: 4496px;
+    left: 54px;
+    font-size: 60px;}
+
+.main7{position: absolute;
+    top: 4648px;
+    left: 54px;}
+
+.text7{position: absolute;
+    top: 5193px;
+    left: 54px;
+    font-size: 60px;}
+    
+.main8{position: absolute;
+    top: 5345px;
+    left: 54px;}
+
+.text8{position: absolute;
+    top: 5890px;
+    left: 54px;
+    font-size: 60px;}

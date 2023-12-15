@@ -1,0 +1,42 @@
+* {margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    border-collapse: collapse;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;}
+    
+.intro_bg{background-image: url(img/1.png);
+    width: 1900px;
+    height: 1080px;}
+
+.header{width: 1701px;
+    height: 150px;
+    margin: auto;
+    display: flex;}
+
+.logo{margin-top: 53px;
+    width: 248.67px;
+    height: 39.78px;
+    justify-content: center;}
+
+.nav{display: flex;
+    justify-content: flex-end;
+    width: 1453px;
+    line-height: 41px;
+    margin-top: 53px;}
+
+.nav > li{margin-left: 178px;
+        font-size: 29px;} 
+         
+a{border-radius: 50px;
+    padding: 12px 41px;}
+
+.bt:hover {background-color: #FF4F00;
+        border-radius: 50px;
+        padding: 12px 41px;
+        transition: all 0.2s;}
+a:visited{color: white;}
+a:active{}
